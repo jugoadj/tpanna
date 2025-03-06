@@ -1,8 +1,6 @@
 # WATER
 
 ## Présentation
-sqp_985587b862e16e37c7b7a259c52afd060f58db0b
-Tpanamaint
 
 Water est une application de suivi de consommation d'eau.
 
